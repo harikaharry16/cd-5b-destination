@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.card-container {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  height: 350px;
+  width: 350px;
+  margin: 30px;
+}
+.na {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
